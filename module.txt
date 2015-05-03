@@ -1,0 +1,9 @@
+{
+    "id" : "CheatsForAll",
+    "version" : "0.1.0",
+    "author" : "Flo",
+    "displayName" : "Cheats for all",
+    "description" : "Gives all players that join the permission to cheat",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}
