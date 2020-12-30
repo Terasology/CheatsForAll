@@ -1,10 +1,10 @@
 {
-    "id": "CheatsForAll",
-    "version": "1.0.0",
-    "author": "Flo",
-    "displayName": "Cheats for all",
-    "description": "Gives all players that join the permission to use cheat commands. Can be used on servers to give expanded rights without admin setup",
-    "dependencies": [],
-    "isServerSideOnly": false,
-    "isSpecial": true
+  "id": "CheatsForAll",
+  "version": "1.1.0-SNAPSHOT",
+  "author": "Flo",
+  "displayName": "Cheats for all",
+  "description": "Gives all players that join the permission to use cheat commands. Can be used on servers to give expanded rights without admin setup",
+  "dependencies": [],
+  "isServerSideOnly": false,
+  "isSpecial": true
 }
